@@ -1,0 +1,10 @@
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\bin\Debug\AsciifyForm.exe.config
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\bin\Debug\AsciifyForm.exe
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\bin\Debug\AsciifyForm.pdb
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.csprojResolveAssemblyReference.cache
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.Form1.resources
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.Properties.Resources.resources
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.csproj.GenerateResource.Cache
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.csproj.CoreCompileInputs.cache
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.exe
+C:\Users\CCA017\source\repos\AsciifyForm\AsciifyForm\obj\Debug\AsciifyForm.pdb
